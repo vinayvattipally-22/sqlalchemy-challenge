@@ -1,0 +1,14 @@
+# Flask related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLAlchemy migration folder
+migrations/
+
+# Flask SQLite database file
+*.sqlite
+
+# Environment variables file (if you use one)
+.env
